@@ -2,9 +2,9 @@
 
 ## I'm a Front End Developer!!
 
-- 🔭 I started a blog, with the intention to publish something i learned every day starting in 05 january.
-- 🌱 I’m currently learning Python and Flask
-- 👯 I’m looking for a Front end Developer Job
+-I started a blog, with the intention to publish something i learned every day starting in 05 january.
+-I’m currently learning Python and Flask
+-I’m looking for a Front end Developer Job
 
 ### Connect with me:
 
