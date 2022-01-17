@@ -6,7 +6,6 @@
 
 - I’m currently learning Python and Flask
 
-- I’m looking for a Front end Developer Job
 
 
 <div align="center">
