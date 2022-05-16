@@ -1,10 +1,10 @@
 
 ### Hi there, I'm Matheus Bueno 👋
-## I'm a Front End Developer!!
+## I'm a Full-Stack Developer!!
 
-- I started a blog, with the intention to publish something i learned every day starting in 05 january.
+- I started a blog, with the intention to publish something i learned every day.
 
-- I’m currently learning Python and Flask
+- I’m currently learning Ruby on Rails.
 
 
 
