@@ -1,6 +1,10 @@
 
 
--I'm a Full-Stack Developer from Curitiba, who studies Computer Science by myself, following the content on OSSU.
+- I'm a Full-Stack Developer from Curitiba.
+- Postgraduate in Data Science by UTFPR
+- Brazilian Jiut Jitsu Lover
+
+📫 Chama: [LinkedIn](https://www.linkedin.com/in/matheusbuenol/) 
 
 
 
